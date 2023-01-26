@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "A difficult Vue project",
+  "author": "Mari",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-router": "^3.4.3",
+    "vuex": "^3.4.0"
+  },
+  {
+    "devDependencies": {
+      "@vue/cli-plugin-eslint": "^5.0.8",
+      "@vue/cli-plugin-typescript": "^5.0.8",
+      "@vue/cli-plugin-unit-jest": "^5.0.8",
+      "@vue/cli-service": "^5.0.8"
+    }
+  }
+}
