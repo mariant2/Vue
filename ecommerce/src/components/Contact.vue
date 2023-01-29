@@ -20,10 +20,9 @@
   import { Component, Vue } from 'vue-property-decorator'
   
   @Component
-  export default class Contact extends Vue {
-    name: string = ''
-    email: string = ''
-    message: string = ''
+    name: string = 'Jose Silve'
+    email: string = 'none@gmail.com'
+    message: string = 'Ola, Jose'
   
     submitForm() {
       // Send the form data to an API or email service
