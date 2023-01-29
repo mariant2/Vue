@@ -53,5 +53,4 @@ nav .cart span {
 }
 
 </style>
-In this example, the <nav> element contains <router-link> components that correspond to the different views in your application. The to prop on the <router-link> component is set to the path that the link should navigate to. The <router-view> component is used to render the current view.
 
